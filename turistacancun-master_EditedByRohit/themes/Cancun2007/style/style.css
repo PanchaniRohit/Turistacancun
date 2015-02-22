@@ -1,0 +1,177 @@
+FONT		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+TD		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px;padding:0px;}
+BODY		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+P		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+DIV		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+INPUT		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+TEXTAREA	{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+FORM 		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+SELECT		{FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; FONT-SIZE: 11px}
+A:link          {BACKGROUND: none; COLOR: #339999; FONT-SIZE: 12px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+A:active        {BACKGROUND: none; COLOR: #339999; FONT-SIZE: 12px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+A:visited       {BACKGROUND: none; COLOR: #339999; FONT-SIZE: 12px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+A:hover         {BACKGROUND: none; COLOR: #0054A6; FONT-SIZE: 12px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+.title 		{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 11px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+.content 	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial;}
+.storytitle 	{BACKGROUND: none; COLOR: #363636; FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+.storycat	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: underline}
+.boxtitle 	{BACKGROUND: none; COLOR: #363636; FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+.boxcontent 	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial;}
+.option 	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+.tiny		{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 8px; FONT-WEIGHT: normal; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+.posted         {BACKGROUND: none; COLOR: #FFFFFF; FONT-SIZE: 11px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+.sideboxtitle   {BACKGROUND: none; COLOR: #FFFFFF; FONT-SIZE: 11px; FONT-WEIGHT: bold; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+.Inicial {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 36px; background-color: #339999; color: #FFFFFF; vertical-align: baseline}
+.titulohotel {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; background-color: #339999; color: #FFFFFF; vertical-align: baseline; font-weight: bold}
+.subtitulohotel {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; background-color: #339999; color: #FFFFFF; vertical-align: baseline}
+.Cuerpojustificado { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: normal; text-transform: none; color: #339999; height: auto; width: auto; list-style-position: outside; list-style-type: none; cursor: default; text-align: justify; overflow: visible;  position: relative; visibility: visible; left: auto; top: auto ; border-style: none; vertical-align: top}
+.Cuerpoderecha { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: normal; text-transform: none; color: #339999; height: auto; width: auto; list-style-position: outside; list-style-type: none; cursor: default;  text-align: right; overflow: visible; visibility: visible; left: auto; top: auto ; border-style: none;  vertical-align: top}
+.Cuerpo {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: normal; text-transform: none; color: #339999; height: auto; width: auto; list-style-position: outside; list-style-type: none; cursor: default;  border-style: none; text-align: left; overflow: visible;  position: relative; visibility: visible; left: 1px; top: 0px}
+.centrado {  text-align: center}
+.encanbezad {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; color: #999933; text-align: center; font-weight: bold}
+.contenidochico 	{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 9px; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial;}
+
+a.topnav:link {color: #FFFFFF; font-size: 13px; TEXT-DECORATION: none}
+a.topnav:active {color: #FFFFFF; font-size: 13px; TEXT-DECORATION: none}
+a.topnav:visited {color: #FFFFCC; font-size: 13px; TEXT-DECORATION: none}
+a.topnav:hover {color: #0054A6; font-size: 13px; TEXT-DECORATION: none}
+
+.footmsg		{BACKGROUND: none; COLOR: #000000; FONT-SIZE: 8px; FONT-WEIGHT: normal; FONT-FAMILY: Tahoma,Verdana,Helvetica,Arial; TEXT-DECORATION: none}
+
+h1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 20px; color: #999933; text-align: center; font-weight: bold}
+#div1 img {width: 100%;height: auto;margin-bottom: 10px;}
+#divContainer {width: 100%;float: left;height: 60px;background-color: white;}
+#div1 {width: 20%;float: left;height: 60px;}
+#div2 {width: 60%;float: left;height: 60px;}
+#div3 {width: 20%;float: left;height: 60px;}
+#maincontent {width: 100%;float: left;}
+#divleft {width: 19%;float: left;padding-right: 1%;}
+#divright {width: 80%;float: left;}
+#divrightcontent {margin-top: 10px;border-top-left-radius: 10px;border-top-right-radius: 10px;background-color: white;padding: 10px;}
+#divrightheader {border-radius: 10px;background-color: white;}
+
+@media screen and (min-width : 320px) and (max-width:480px) {
+#div1 img {width: 100%;height: 80%;margin-bottom: 10px;}
+#maincontent {float: none;width: 100%;}
+#divleft {float: none;width: 100%;}
+#divright {float: left;width: 100%;}
+#div1 {width: 40%;float: left;height: 60px;}
+#div2 {width: 35%;float: left;height: 60px;}
+#div3 {width: 25%;float: left;height: 60px;}
+}
+
+@media screen and (min-width : 480px) and (max-width:640px) {
+#maincontent {
+float: left;
+width: 100%;
+}
+
+#divleft {
+float: left;
+width: 29%;
+}
+
+#divright {
+float: left;
+width: 70%;
+}
+
+#div1 img {
+width: 100%;
+height: 80%;
+margin-bottom: 10px;
+}
+
+#div1 {
+width: 30%;
+float: left;
+height: 60px;
+}
+
+#div2 {
+width: 50%;
+float: left;
+height: 60px;
+}
+
+#div3 {
+width: 20%;
+float: left;
+height: 60px;
+}
+}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+#maincontent {
+float: left;
+width: 100%;
+}
+
+#divleft {
+float: left;
+width: 29%;
+}
+
+#divright {
+float: left;
+width: 70%;
+}
+
+#div1 {
+width: 25%;
+float: left;
+height: 60px;
+border-top-left-radius: 10px;
+}
+
+#div2 {
+width: 55%;
+float: left;
+height: 60px;
+}
+
+#div3 {
+width: 20%;
+float: left;
+height: 60px;
+border-top-right-radius: 10px;
+}
+}
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+
+#maincontent {
+float: left;
+width: 100%;
+}
+
+#divleft {
+float: left;
+width: 29%;
+}
+
+#divright {
+float: left;
+width: 70%;
+}
+
+#div1 {
+width: 30%;
+float: left;
+height: 60px;
+border-top-left-radius: 10px;
+}
+
+#div2 {
+width: 50%;
+float: left;
+height: 60px;
+}
+
+#div3 {
+width: 20%;
+float: left;
+height: 60px;
+border-top-right-radius: 10px;
+}
+}
