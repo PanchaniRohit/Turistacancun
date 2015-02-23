@@ -27,7 +27,7 @@ echo " <div id=\"divrightheader\">\n";
 }
 
 function Opendivrightcontent(){
-echo " <div id=\"divrightheader\">\n";
+echo " <div id=\"divrightcontent\">\n";
 }
 
 function OpenOneTable(){
@@ -190,12 +190,12 @@ function themefooter() {
 		."</div>\n"
 		."<div style=\"float: left; width: 100%; height: 30px;\"\n>"
         ."<div style=\"float: left; width: 10%; background-color: white;\"\n>"
-        ."<img align=\"left\" src=\"images/corner-bottom-left.gif\"\n>"
+        ."<img align=\"left\" src=\"themes/Cancun2007/images/corner-bottom-left.gif\"\n>"
        	."</div>\n"
 		."<div style=\"float: left; background-color: #ffffff; height: 30px; width: 80%;\">\n"
 		."</div>\n"
 		."<div style=\"float: left; width: 10%; background-color: white;\"\n>"
-		."<img align=\"right\" src=\"images/corner-bottom-right.gif\">\n"
+		."<img align=\"right\" src=\"themes/Cancun2007/images/corner-bottom-right.gif\">\n"
 		."</div>\n"
    		."</div>\n"
 		."</td>\n"

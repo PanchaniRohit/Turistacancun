@@ -98,10 +98,11 @@ $content .= $tirafotos;
 global $pagetitle;
 $pagetitle=_PAGETITLE;
 include ("header.php");
-
+Opendivright();
 OpenTable();
 echo $content;
 CloseTable();
+Closediv();
 echo "<br>";
 include("footer.php");
  
