@@ -31,7 +31,7 @@ echo " <div id=\"divrightcontent\">\n";
 }
 
 function OpenOneTable(){
-echo "<table border=\"0\" cellspacing=\"1\" cellpadding=\"8\" ><tr><td>\n";
+echo "<table width=\"100%\" border=\"0\" cellspacing=\"1\" cellpadding=\"8\" ><tr><td>\n";
 }
 
 function CloseOneTable(){
